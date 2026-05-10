@@ -6,3 +6,5 @@ networkx
 nltk
 scikit-learn
 datasets
+ydata-profiling
+setuptools
